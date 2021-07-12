@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.img-logo{
+    height: 60px;
+    max-width: 100%;
+}
+
+.img-logo img{
+    object-fit: cover;
+    object-position: top;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.btn-nav{
+    width: 100%;
+    border: none;
+    padding: 5px 15px;
+    background:#be1946;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    cursor: pointer;
+}
