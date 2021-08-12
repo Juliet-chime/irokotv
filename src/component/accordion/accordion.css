@@ -1,0 +1,21 @@
+.accordion{
+    width: 70%;
+    margin: auto;
+}
+
+.accordion-btn{
+    background: #1E232B;
+    color: white;
+    border: none !important;
+    outline: none;
+}
+
+.accordion-text{
+    border: solid;
+}
+
+.accordion-text1{
+    border: solid;
+    text-align: start;
+    font-size: 14px;
+}

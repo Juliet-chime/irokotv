@@ -3,8 +3,13 @@
     margin: 0;
 }
 
+.iroko-header{
+    background:rgba(0,0,0,0.9);
+    padding: 13px 35px;
+}
+
 .img-logo{
-    height: 60px;
+    height: 45px;
     max-width: 100%;
 }
 
@@ -16,7 +21,16 @@
     max-height: 100%;
 }
 
-.btn-nav{
+/* .btn-head{
+    border: solid;
+} */
+
+/* .form-inline{
+    width: 500px;
+    border: solid;
+} */
+
+/* .btn-nav{
     width: 100%;
     border: none;
     padding: 5px 15px;
@@ -27,4 +41,4 @@
     font-size: 14px;
     line-height: 24px;
     cursor: pointer;
-}
+} */
