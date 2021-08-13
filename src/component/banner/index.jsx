@@ -217,49 +217,33 @@ const Page = () => {
           <div className="col-md-8 col-sm-12 footer-about">
             <div className="row">
               <ul class="nav nav-pills">
-                <li class="nav-item">
-                  <a class="nav-link" aria-current="page" href="#">
+                <li class="nav-item home">
                     HOME
-                  </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
                     ABOUT US
-                  </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
                     FAQ
-                  </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
                     CONTACT US
-                  </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
                     ANDROID APP
-                  </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
                     IPHONE APP
-                  </a>
                 </li>
               </ul>
             </div>
             <div className="row">
               <ul class="nav nav-pills">
-                <li class="nav-item">
-                  <a class="nav-link" aria-current="page" href="#">
+                <li class="nav-item home">
                     TERMS OF USE
-                  </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
                     PRIVACY POLICY
-                  </a>
                 </li>
               </ul>
             </div>
@@ -271,19 +255,13 @@ const Page = () => {
             <div className="row">
               <ul class="nav nav-pills">
                 <li>
-                  <a aria-current="page" href="#">
                     <i class="fa fa-instagram"></i>
-                  </a>
                 </li>
                 <li>
-                  <a href="#">
                     <i class="fa fa-facebook"></i>
-                  </a>
                 </li>
                 <li>
-                  <a href="#">
                     <i class="fa fa-twitter"></i>
-                  </a>
                 </li>
               </ul>
             </div>

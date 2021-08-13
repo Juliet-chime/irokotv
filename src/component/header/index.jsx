@@ -1,5 +1,4 @@
 import React from "react";
-// import picture from "../../assest/img/bgimg.jpg";
 import iroko from "../../assest/img/irokotv2.png";
 import "./index.css";
 import Button from "../button/button";
