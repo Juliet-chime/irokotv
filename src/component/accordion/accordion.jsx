@@ -94,15 +94,19 @@ function Accordion() {
     </h2>
     <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">If you subscribed with credit card...
-Login to your account on IROKOTV.com.
-Navigate to the “Subscription” tab of your profile.
-Click the “Cancel” button in the “Plan” section.
+      <ol>
+        <li>Login to your account on IROKOTV.com.</li>
+        <li>Navigate to the “Subscription” tab of your profile.</li>
+        <li>Click the “Cancel” button in the “Plan” section.</li>
+      </ol>
 If you subscribed via iTunes...
-Access “Settings” on your iPhone.
-Scroll down and tap “iTunes &amp; AppStore”.
-Tap your Apple ID email, then “View Apple ID” and enter your password
-Tap “Subscriptions” and select IROKOTV.
-Tap the “Cancel Subscription” option at the bottom of the screen.
+<ol>
+  <li>Access “Settings” on your iPhone.</li>
+  <li>Scroll down and tap “iTunes &amp; AppStore”.</li>
+  <li>Tap your Apple ID email, then “View Apple ID” and enter your password.</li>
+  <li>Tap “Subscriptions” and select IROKOTV.</li>
+  <li>Tap the “Cancel Subscription” option at the bottom of the screen.</li>
+</ol>
 If you subscribed via bank, payments are non-recurring, so there’s nothing you need to do! Once cancelled, you’ll have access to watch IROKOTV until your next renewal date.
 </div>
     </div>
